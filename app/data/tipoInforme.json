@@ -1,0 +1,44 @@
+{
+  "informe": [
+    {
+      "anio": 2017,
+      "cumplimiento": 167,
+      "desempenio": 9
+    },
+    {
+      "anio": 2018,
+      "cumplimiento": 181,
+      "desempenio": 9
+    },
+    {
+      "anio": 2019,
+      "cumplimiento": 175,
+      "desempenio": 13
+    },
+    {
+      "anio": 2020,
+      "cumplimiento": 180,
+      "desempenio": 17
+    },
+    {
+      "anio": 2021,
+      "cumplimiento": 181,
+      "desempenio": 18
+    },
+    {
+      "anio": 2022,
+      "cumplimiento": 182,
+      "desempenio": 17
+    },
+    {
+      "anio": 2023,
+      "cumplimiento": 183,
+      "desempenio": 18
+    },
+    {
+      "anio": 2024,
+      "cumplimiento": 236,
+      "desempenio": 20
+    }
+  ]
+}

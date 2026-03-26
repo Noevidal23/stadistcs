@@ -1,0 +1,22 @@
+{
+  "irregularidades": [
+    "Recursos otorgados no comprobados, cancelados, depurados o recuperados.",
+    "Comisiones bancarias, multas, recargos y actualizaciones pagados con recursos del erario público.",
+    "Documentación justificativa inexistente.",
+    "Faltante de documentación técnica que acredite la procedencia del pago (estimaciones, números generadores, reporte fotográfico, controles de calidad, bitácora de obra, acta de entrega-recepción, tarjetas de precios unitarios, entre otros).",
+    "Incumplimiento a la legislación aplicable en el proceso de adjudicación de obras, bienes o servicios.",
+    "Saldos por concepto de ingresos no percibidos, debido a los rezagos en el cobro de facturación por el servicio.",
+    "Recursos federales comprometidos o devengados no pagados al cierre del ejercicio auditado, no pagados en el primer trimestre/pagados posterior al primer trimestre.",
+    "Incumplimiento en la entrega de la documentación comprobatoria y justificativa del ejercicio del gasto."
+  ],
+  "colors": [
+    "bg-red-800",
+    "bg-blue-800",
+    "bg-green-800",
+    "bg-yellow-800",
+    "bg-purple-800",
+    "bg-pink-800",
+    "bg-orange-800",
+    "bg-indigo-800"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "pliegos": [
+    {
+      "anio": 2017,
+      "total": 1178
+    },
+    {
+      "anio": 2018,
+      "total": 2555
+    },
+    {
+      "anio": 2019,
+      "total": 2188
+    },
+    {
+      "anio": 2020,
+      "total": 2071
+    },
+    {
+      "anio": 2021,
+      "total": 2429
+    },
+    {
+      "anio": 2022,
+      "total": 1821
+    },
+    {
+      "anio": 2023,
+      "total": 1642
+    },
+    {
+      "anio": 2024,
+      "total": 1420
+    }
+  ],
+  "promocionesFiscales": [
+    {
+      "anio": 2017,
+      "total": 126
+    },
+    {
+      "anio": 2018,
+      "total": 153
+    },
+    {
+      "anio": 2019,
+      "total": 117
+    },
+    {
+      "anio": 2020,
+      "total": 106
+    },
+    {
+      "anio": 2021,
+      "total": 121
+    },
+    {
+      "anio": 2022,
+      "total": 79
+    },
+    {
+      "anio": 2023,
+      "total": 114
+    },
+    {
+      "anio": 2024,
+      "total": 99
+    }
+  ],
+  "recomendaciones": [
+    {
+      "anio": 2017,
+      "cumplimiento": 221,
+      "desempenio": 71
+    },
+    {
+      "anio": 2018,
+      "cumplimiento": 363,
+      "desempenio": 251
+    },
+    {
+      "anio": 2019,
+      "cumplimiento": 279,
+      "desempenio": 255
+    },
+    {
+      "anio": 2020,
+      "cumplimiento": 167,
+      "desempenio": 200
+    },
+    {
+      "anio": 2021,
+      "cumplimiento": 382,
+      "desempenio": 183
+    },
+    {
+      "anio": 2022,
+      "cumplimiento": 316,
+      "desempenio": 77
+    },
+    {
+      "anio": 2023,
+      "cumplimiento": 365,
+      "desempenio": 131
+    },
+    {
+      "anio": 2024,
+      "cumplimiento": 534,
+      "desempenio": 100
+    }
+  ],
+  "pras": [
+    {
+      "anio": 2017,
+      "total": 1442
+    },
+    {
+      "anio": 2018,
+      "total": 2337
+    },
+    {
+      "anio": 2019,
+      "total": 0
+    },
+    {
+      "anio": 2020,
+      "total": 2185
+    },
+    {
+      "anio": 2021,
+      "total": 2905
+    },
+    {
+      "anio": 2022,
+      "total": 2373
+    },
+    {
+      "anio": 2023,
+      "total": 1646
+    },
+    {
+      "anio": 2024,
+      "total": 0
+    }
+  ],
+  "aclaraciones": [
+    {
+      "anio": 2017,
+      "total": 666
+    }
+  ]
+}

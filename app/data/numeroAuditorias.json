@@ -1,0 +1,160 @@
+{
+  "ayuntamientos": [
+    {
+      "anio": 2017,
+      "cumplimiento": 117,
+      "desempenio": 4,
+      "total": 121
+    },
+    {
+      "anio": 2018,
+      "cumplimiento": 123,
+      "desempenio": 4,
+      "total": 127
+    },
+    {
+      "anio": 2019,
+      "cumplimiento": 123,
+      "desempenio": 8,
+      "total": 131
+    },
+    {
+      "anio": 2020,
+      "cumplimiento": 124,
+      "desempenio": 9,
+      "total": 133
+    },
+    {
+      "anio": 2021,
+      "cumplimiento": 124,
+      "desempenio": 9,
+      "total": 133
+    },
+    {
+      "anio": 2022,
+      "cumplimiento": 124,
+      "desempenio": 9,
+      "total": 133
+    },
+    {
+      "anio": 2023,
+      "cumplimiento": 124,
+      "desempenio": 10,
+      "total": 134
+    },
+    {
+      "anio": 2024,
+      "cumplimiento": 135,
+      "desempenio": 10,
+      "total": 145
+    }
+  ],
+  "poderes": [
+    {
+      "anio": 2017,
+      "cumplimiento": 46,
+      "desempenio": 5,
+      "total": 51
+    },
+    {
+      "anio": 2018,
+      "cumplimiento": 54,
+      "desempenio": 5,
+      "total": 59
+    },
+    {
+      "anio": 2019,
+      "cumplimiento": 48,
+      "desempenio": 5,
+      "total": 53
+    },
+    {
+      "anio": 2020,
+      "cumplimiento": 52,
+      "desempenio": 8,
+      "total": 60
+    },
+    {
+      "anio": 2021,
+      "cumplimiento": 53,
+      "desempenio": 9,
+      "total": 62
+    },
+    {
+      "anio": 2022,
+      "cumplimiento": 54,
+      "desempenio": 8,
+      "total": 62
+    },
+    {
+      "anio": 2023,
+      "cumplimiento": 55,
+      "desempenio": 8,
+      "total": 63
+    },
+    {
+      "anio": 2024,
+      "cumplimiento": 56,
+      "desempenio": 10,
+      "total": 66
+    }
+  ],
+  "dif": [
+    {
+      "anio": 2024,
+      "cumplimiento": 40,
+      "desempenio": 0,
+      "total": 40
+    }
+  ],
+  "aguas": [
+    {
+      "anio": 2017,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2018,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2019,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2020,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2021,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2022,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2023,
+      "cumplimiento": 4,
+      "desempenio": 0,
+      "total": 4
+    },
+    {
+      "anio": 2024,
+      "cumplimiento": 5,
+      "desempenio": 0,
+      "total": 5
+    }
+  ]
+}

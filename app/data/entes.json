@@ -1,0 +1,160 @@
+{
+  "ayuntamientos": [
+    {
+      "anio": 2017,
+      "universo": 124,
+      "auditados": 117,
+      "porcentaje": 0.944
+    },
+    {
+      "anio": 2018,
+      "universo": 124,
+      "auditados": 123,
+      "porcentaje": 0.992
+    },
+    {
+      "anio": 2019,
+      "universo": 123,
+      "auditados": 123,
+      "porcentaje": 1
+    },
+    {
+      "anio": 2020,
+      "universo": 124,
+      "auditados": 124,
+      "porcentaje": 1
+    },
+    {
+      "anio": 2021,
+      "universo": 124,
+      "auditados": 124,
+      "porcentaje": 1
+    },
+    {
+      "anio": 2022,
+      "universo": 124,
+      "auditados": 124,
+      "porcentaje": 1
+    },
+    {
+      "anio": 2023,
+      "universo": 124,
+      "auditados": 124,
+      "porcentaje": 1
+    },
+    {
+      "anio": 2024,
+      "universo": 124,
+      "auditados": 124,
+      "porcentaje": 1
+    }
+  ],
+  "Poderes": [
+    {
+      "anio": 2017,
+      "universo": 117,
+      "auditados": 47,
+      "porcentaje": 0.402
+    },
+    {
+      "anio": 2018,
+      "universo": 112,
+      "auditados": 55,
+      "porcentaje": 0.491
+    },
+    {
+      "anio": 2019,
+      "universo": 105,
+      "auditados": 48,
+      "porcentaje": 0.457
+    },
+    {
+      "anio": 2020,
+      "universo": 108,
+      "auditados": 54,
+      "porcentaje": 0.5
+    },
+    {
+      "anio": 2021,
+      "universo": 104,
+      "auditados": 55,
+      "porcentaje": 0.529
+    },
+    {
+      "anio": 2022,
+      "universo": 100,
+      "auditados": 57,
+      "porcentaje": 0.57
+    },
+    {
+      "anio": 2023,
+      "universo": 101,
+      "auditados": 56,
+      "porcentaje": 0.554
+    },
+    {
+      "anio": 2024,
+      "universo": 96,
+      "auditados": 53,
+      "porcentaje": 0.552
+    }
+  ],
+  "aguas": [
+    {
+      "anio": 2017,
+      "universo": 28,
+      "auditados": 4,
+      "porcentaje": 0.143
+    },
+    {
+      "anio": 2018,
+      "universo": 28,
+      "auditados": 4,
+      "porcentaje": 0.143
+    },
+    {
+      "anio": 2019,
+      "universo": 28,
+      "auditados": 4,
+      "porcentaje": 0.143
+    },
+    {
+      "anio": 2020,
+      "universo": 29,
+      "auditados": 4,
+      "porcentaje": 0.138
+    },
+    {
+      "anio": 2021,
+      "universo": 29,
+      "auditados": 4,
+      "porcentaje": 0.138
+    },
+    {
+      "anio": 2022,
+      "universo": 29,
+      "auditados": 4,
+      "porcentaje": 0.138
+    },
+    {
+      "anio": 2023,
+      "universo": 29,
+      "auditados": 4,
+      "porcentaje": 0.138
+    },
+    {
+      "anio": 2024,
+      "universo": 29,
+      "auditados": 4,
+      "porcentaje": 0.138
+    }
+  ],
+  "dif": [
+    {
+      "anio": 2024,
+      "universo": 124,
+      "auditados": 40,
+      "porcentaje": 0.323
+    }
+  ]
+}

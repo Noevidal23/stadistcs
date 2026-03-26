@@ -1,0 +1,135 @@
+{
+  "poderes": [
+    {
+      "anio": 2017,
+      "conImpacto": 144,
+      "sinImpacto": 140
+    },
+    {
+      "anio": 2018,
+      "conImpacto": 323,
+      "sinImpacto": 231
+    },
+    {
+      "anio": 2019,
+      "conImpacto": 230,
+      "sinImpacto": 96
+    },
+    {
+      "anio": 2020,
+      "conImpacto": 160,
+      "sinImpacto": 86
+    },
+    {
+      "anio": 2021,
+      "conImpacto": 156,
+      "sinImpacto": 134
+    },
+    {
+      "anio": 2022,
+      "conImpacto": 79,
+      "sinImpacto": 52
+    },
+    {
+      "anio": 2023,
+      "conImpacto": 82,
+      "sinImpacto": 51
+    },
+    {
+      "anio": 2024,
+      "conImpacto": 211,
+      "sinImpacto": 145
+    }
+  ],
+  "ayuntamientos": [
+    {
+      "anio": 2017,
+      "conImpacto": 1677,
+      "sinImpacto": 398
+    },
+    {
+      "anio": 2018,
+      "conImpacto": 2207,
+      "sinImpacto": 488
+    },
+    {
+      "anio": 2019,
+      "conImpacto": 1916,
+      "sinImpacto": 427
+    },
+    {
+      "anio": 2020,
+      "conImpacto": 1878,
+      "sinImpacto": 363
+    },
+    {
+      "anio": 2021,
+      "conImpacto": 2234,
+      "sinImpacto": 497
+    },
+    {
+      "anio": 2022,
+      "conImpacto": 1727,
+      "sinImpacto": 397
+    },
+    {
+      "anio": 2023,
+      "conImpacto": 1544,
+      "sinImpacto": 524
+    },
+    {
+      "anio": 2024,
+      "conImpacto": 985,
+      "sinImpacto": 495
+    }
+  ],
+  "aguas": [
+    {
+      "anio": 2017,
+      "conImpacto": 23,
+      "sinImpacto": 12
+    },
+    {
+      "anio": 2018,
+      "conImpacto": 25,
+      "sinImpacto": 17
+    },
+    {
+      "anio": 2019,
+      "conImpacto": 42,
+      "sinImpacto": 11
+    },
+    {
+      "anio": 2020,
+      "conImpacto": 33,
+      "sinImpacto": 8
+    },
+    {
+      "anio": 2021,
+      "conImpacto": 39,
+      "sinImpacto": 12
+    },
+    {
+      "anio": 2022,
+      "conImpacto": 15,
+      "sinImpacto": 15
+    },
+    {
+      "anio": 2023,
+      "conImpacto": 16,
+      "sinImpacto": 20
+    },
+    {
+      "anio": 2024,
+      "conImpacto": 69,
+      "sinImpacto": 24
+    }
+  ],
+  "dif": [
+    {
+      "anio": 2024,
+      "conImpacto": 155,
+      "sinImpacto": 62
+    }
+  ]
+}

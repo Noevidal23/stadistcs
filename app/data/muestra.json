@@ -1,0 +1,584 @@
+{
+  "ayuntamiento": {
+    "ingreso": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 24070034071.66,
+        "MUESTRA": 611159514.83,
+        "PORCENTAJE": 0.025
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 25267152912.46,
+        "MUESTRA": 586390931.78,
+        "PORCENTAJE": 0.023
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 2935592919.33,
+        "MUESTRA": 24039377.45,
+        "PORCENTAJE": 0.008
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 25759804725.6,
+        "MUESTRA": 712217977.28,
+        "PORCENTAJE": 0.028
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 28597715436.0,
+        "MUESTRA": 1968361685.82,
+        "PORCENTAJE": 0.069
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 32360518753.39,
+        "MUESTRA": 19142838678.81,
+        "PORCENTAJE": 0.592
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 37384954316.71,
+        "MUESTRA": 19969345176.14,
+        "PORCENTAJE": 0.534
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 39122648632.58,
+        "MUESTRA": 6891111947.16,
+        "PORCENTAJE": 0.176
+      }
+    ],
+    "egreso": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 20385788011,
+        "MUESTRA": 5841358575,
+        "PORCENTAJE": 0.2865
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 21667260526,
+        "MUESTRA": 8497629429,
+        "PORCENTAJE": 0.3921
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 23579108030,
+        "MUESTRA": 6545863275,
+        "PORCENTAJE": 0.2776
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 25002403908,
+        "MUESTRA": 7818392004,
+        "PORCENTAJE": 0.3127
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 24953408183,
+        "MUESTRA": 7894340233,
+        "PORCENTAJE": 0.3163
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 27405872300,
+        "MUESTRA": 7738291063,
+        "PORCENTAJE": 0.2823
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 32098793279,
+        "MUESTRA": 7561318119,
+        "PORCENTAJE": 0.2355
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 33352288115,
+        "MUESTRA": 2894240774,
+        "PORCENTAJE": 0.0867
+      }
+    ],
+    "situacionFinanciera": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 0,
+        "MUESTRA": 1469842377,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 0,
+        "MUESTRA": 1138193047,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 3604149366,
+        "MUESTRA": 1077881001,
+        "PORCENTAJE": 0.299
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 3678246971,
+        "MUESTRA": 850603782,
+        "PORCENTAJE": 0.2312
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 5284208042,
+        "MUESTRA": 952503525.4,
+        "PORCENTAJE": 0.1802
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 5518854548,
+        "MUESTRA": 1643068820,
+        "PORCENTAJE": 0.2977
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 7576113453,
+        "MUESTRA": 5817112924,
+        "PORCENTAJE": 0.7678
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 7345857001,
+        "MUESTRA": 1972292301,
+        "PORCENTAJE": 0.2684
+      }
+    ],
+    "disponibilidad": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 0,
+        "MUESTRA": 1157672019,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 0,
+        "MUESTRA": 1225992415,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 387329135.8,
+        "MUESTRA": 387329135.8,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 514880673.7,
+        "MUESTRA": 514880673.7,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 1111313099,
+        "MUESTRA": 1111313098,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 1271347403,
+        "MUESTRA": 1216684251,
+        "PORCENTAJE": 0.957
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 1206837125,
+        "MUESTRA": 1206837124,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 0,
+        "MUESTRA": 0,
+        "PORCENTAJE": 0
+      }
+    ]
+  },
+  "poderes": {
+    "ingreso": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 94490829295.0,
+        "MUESTRA": 3311238701.36,
+        "PORCENTAJE": 0.035
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 101356694865.0,
+        "MUESTRA": 3538079979.89,
+        "PORCENTAJE": 0.035
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 96687349784.0,
+        "MUESTRA": 5377038946.0,
+        "PORCENTAJE": 0.056
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 103711056992.0,
+        "MUESTRA": 11827148179.99,
+        "PORCENTAJE": 0.114
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 103788875706.0,
+        "MUESTRA": 97380417500.89,
+        "PORCENTAJE": 0.938
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 117191592574.0,
+        "MUESTRA": 114266336293.28,
+        "PORCENTAJE": 0.975
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 144041382130.58,
+        "MUESTRA": 118397129458.09,
+        "PORCENTAJE": 0.822
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 141259584561.82,
+        "MUESTRA": 54368260837.56,
+        "PORCENTAJE": 0.385
+      }
+    ],
+    "egreso": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 61443407372.0,
+        "MUESTRA": 11367139353.21,
+        "PORCENTAJE": 0.185
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 37300288246.0,
+        "MUESTRA": 14440191450.04,
+        "PORCENTAJE": 0.387
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 94924812601.75,
+        "MUESTRA": 10996082040.7,
+        "PORCENTAJE": 0.116
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 101534768546.98,
+        "MUESTRA": 10193967143.98,
+        "PORCENTAJE": 0.1
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 85415726588.46,
+        "MUESTRA": 15785521858.66,
+        "PORCENTAJE": 0.185
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 88448303756.71,
+        "MUESTRA": 14745114200.12,
+        "PORCENTAJE": 0.167
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 102425498660.64,
+        "MUESTRA": 18029997591.06,
+        "PORCENTAJE": 0.176
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 136890972675.0,
+        "MUESTRA": 17103613172.65,
+        "PORCENTAJE": 0.125
+      }
+    ],
+    "situacionFinanciera": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 0,
+        "MUESTRA": 22659183006.71,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 0,
+        "MUESTRA": 55546623074.65,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 460389511.21,
+        "MUESTRA": 446676402.25,
+        "PORCENTAJE": 0.97
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 10341205440.1,
+        "MUESTRA": 10253626634.48,
+        "PORCENTAJE": 0.992
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 9918691416.08,
+        "MUESTRA": 9890230644.49,
+        "PORCENTAJE": 0.997
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 5723337979.81,
+        "MUESTRA": 5723337979.81,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 6464116400.09,
+        "MUESTRA": 6464095441.19,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 12229816230.79,
+        "MUESTRA": 9739842924.81,
+        "PORCENTAJE": 0.796
+      }
+    ],
+    "disponibilidad": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 0,
+        "MUESTRA": 1104870231.06,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 0,
+        "MUESTRA": 1218781480.7,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 1567471769.88,
+        "MUESTRA": 846218803.95,
+        "PORCENTAJE": 0.54
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 1299729343.51,
+        "MUESTRA": 1298472578.58,
+        "PORCENTAJE": 0.999
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 726283828.42,
+        "MUESTRA": 717352536.7,
+        "PORCENTAJE": 0.988
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 657271143.0,
+        "MUESTRA": 657271143.0,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 303362082.69,
+        "MUESTRA": 303362082.69,
+        "PORCENTAJE": 1
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 349256946.86,
+        "MUESTRA": 170270663.45,
+        "PORCENTAJE": 0.488
+      }
+    ]
+  },
+  "dif": {
+    "ingreso": [
+      {
+        "anio": 2024,
+        "UNIVERSO": 1022859950.01,
+        "MUESTRA": 619687843.48,
+        "PORCENTAJE": 0.606
+      }
+    ],
+    "egreso": [
+      {
+        "anio": 2024,
+        "UNIVERSO": 952144323.81,
+        "MUESTRA": 196913591.93,
+        "PORCENTAJE": 0.207
+      }
+    ],
+    "situacionFinanciera": [
+      {
+        "anio": 2024,
+        "UNIVERSO": 26556655.66,
+        "MUESTRA": 13786493.55,
+        "PORCENTAJE": 0.519
+      }
+    ]
+  },
+  "aguas": {
+    "ingreso": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 679742229.37,
+        "MUESTRA": 467936112.6,
+        "PORCENTAJE": 0.688
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 1087930498.31,
+        "MUESTRA": 392262578.11,
+        "PORCENTAJE": 0.361
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 937068586.86,
+        "MUESTRA": 695266176.96,
+        "PORCENTAJE": 0.742
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 963475270.55,
+        "MUESTRA": 714670114.47,
+        "PORCENTAJE": 0.742
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 1226523918.2,
+        "MUESTRA": 436756449.52,
+        "PORCENTAJE": 0.356
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 1328796287.56,
+        "MUESTRA": 656109535.77,
+        "PORCENTAJE": 0.494
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 1439396650.04,
+        "MUESTRA": 626570426.09,
+        "PORCENTAJE": 0.435
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 1479319557.95,
+        "MUESTRA": 755049461.42,
+        "PORCENTAJE": 0.51
+      }
+    ],
+    "egreso": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 663019268.37,
+        "MUESTRA": 149171181.35,
+        "PORCENTAJE": 0.225
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 1069422122.46,
+        "MUESTRA": 201479583.36,
+        "PORCENTAJE": 0.188
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 962426337.58,
+        "MUESTRA": 133938746.76,
+        "PORCENTAJE": 0.139
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 946783309.06,
+        "MUESTRA": 75502257.05,
+        "PORCENTAJE": 0.08
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 1179517699.24,
+        "MUESTRA": 280712634.34,
+        "PORCENTAJE": 0.238
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 1285358837.54,
+        "MUESTRA": 103617838.99,
+        "PORCENTAJE": 0.081
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 1368182583.17,
+        "MUESTRA": 270803549.84,
+        "PORCENTAJE": 0.198
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 1431025113.28,
+        "MUESTRA": 312503218.04,
+        "PORCENTAJE": 0.218
+      }
+    ],
+    "situacionFinanciera": [
+      {
+        "anio": 2017,
+        "UNIVERSO": 0,
+        "MUESTRA": 52108749.61,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2018,
+        "UNIVERSO": 0,
+        "MUESTRA": 100877071.41,
+        "PORCENTAJE": 0
+      },
+      {
+        "anio": 2019,
+        "UNIVERSO": 240331823.58,
+        "MUESTRA": 76703851.99,
+        "PORCENTAJE": 0.319
+      },
+      {
+        "anio": 2020,
+        "UNIVERSO": 266678671.42,
+        "MUESTRA": 64801897.75,
+        "PORCENTAJE": 0.243
+      },
+      {
+        "anio": 2021,
+        "UNIVERSO": 685738085.87,
+        "MUESTRA": 443472986.41,
+        "PORCENTAJE": 0.647
+      },
+      {
+        "anio": 2022,
+        "UNIVERSO": 643470539.34,
+        "MUESTRA": 62667398.33,
+        "PORCENTAJE": 0.097
+      },
+      {
+        "anio": 2023,
+        "UNIVERSO": 611761201.53,
+        "MUESTRA": 491389341.19,
+        "PORCENTAJE": 0.803
+      },
+      {
+        "anio": 2024,
+        "UNIVERSO": 605299911.17,
+        "MUESTRA": 324463597.23,
+        "PORCENTAJE": 0.536
+      }
+    ]
+  }
+}
