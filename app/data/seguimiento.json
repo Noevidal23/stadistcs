@@ -1,0 +1,160 @@
+{
+  "municipios": [
+    {
+      "ejercicio": 2017,
+      "observado": 4924234700,
+      "solventado": 573127837.4,
+      "persistente": 4351106862
+    },
+    {
+      "ejercicio": 2018,
+      "observado": 6669903124,
+      "solventado": 923483980.4,
+      "persistente": 5746419144
+    },
+    {
+      "ejercicio": 2019,
+      "observado": 3083727213,
+      "solventado": 1054285269,
+      "persistente": 2029441944
+    },
+    {
+      "ejercicio": 2020,
+      "observado": 3379788656,
+      "solventado": 519657822.2,
+      "persistente": 2860130834
+    },
+    {
+      "ejercicio": 2021,
+      "observado": 3862616130,
+      "solventado": 491155430.4,
+      "persistente": 3371460699
+    },
+    {
+      "ejercicio": 2022,
+      "observado": 2758433522,
+      "solventado": 465236957.9,
+      "persistente": 2293196564
+    },
+    {
+      "ejercicio": 2023,
+      "observado": 5244269527,
+      "solventado": 562656690.6,
+      "persistente": 4681612836
+    },
+    {
+      "ejercicio": 2024,
+      "observado": 1732113493,
+      "solventado": 84486076.96,
+      "persistente": 1647627417
+    }
+  ],
+  "poderes": [
+    {
+      "ejercicio": 2017,
+      "observado": 634114644.6,
+      "solventado": 260792744,
+      "persistente": 373321900.6
+    },
+    {
+      "ejercicio": 2018,
+      "observado": 6517439811,
+      "solventado": 992086114,
+      "persistente": 5525353697
+    },
+    {
+      "ejercicio": 2019,
+      "observado": 463375241.9,
+      "solventado": 217242726.4,
+      "persistente": 246132515.5
+    },
+    {
+      "ejercicio": 2020,
+      "observado": 592183479.9,
+      "solventado": 60021746.26,
+      "persistente": 532161733.7
+    },
+    {
+      "ejercicio": 2021,
+      "observado": 249973947.2,
+      "solventado": 128104916.4,
+      "persistente": 121869030.8
+    },
+    {
+      "ejercicio": 2022,
+      "observado": 86627658.5,
+      "solventado": 44344220.59,
+      "persistente": 42283437.91
+    },
+    {
+      "ejercicio": 2023,
+      "observado": 887291049,
+      "solventado": 472988802.3,
+      "persistente": 414302246.7
+    },
+    {
+      "ejercicio": 2024,
+      "observado": 6259960833,
+      "solventado": 107825150.7,
+      "persistente": 6152135683
+    }
+  ],
+  "agua": [
+    {
+      "ejercicio": 2017,
+      "observado": 24949562.39,
+      "solventado": 3442513.44,
+      "persistente": 21507048.95
+    },
+    {
+      "ejercicio": 2018,
+      "observado": 148845951.9,
+      "solventado": 7020981.83,
+      "persistente": 141824970.1
+    },
+    {
+      "ejercicio": 2019,
+      "observado": 516292131,
+      "solventado": 107440337.9,
+      "persistente": 408851793.2
+    },
+    {
+      "ejercicio": 2020,
+      "observado": 136235548.8,
+      "solventado": 66323302.42,
+      "persistente": 69912246.4
+    },
+    {
+      "ejercicio": 2021,
+      "observado": 303593990.9,
+      "solventado": 14034471.32,
+      "persistente": 289559519.6
+    },
+    {
+      "ejercicio": 2022,
+      "observado": 200570077.5,
+      "solventado": 11752873.15,
+      "persistente": 188817204.4
+    },
+    {
+      "ejercicio": 2023,
+      "observado": 363278659.3,
+      "solventado": 17010289.57,
+      "persistente": 346268369.7
+    },
+    {
+      "ejercicio": 2024,
+      "observado": 614767776.5,
+      "solventado": 0,
+      "persistente": 614767776.5
+    }
+  ],
+  "dif": [
+    {
+      "ejercicio": 2024,
+      "observado": 90382752.71,
+      "solventado": 0,
+      "persistente": 90382752.71
+    }
+  ]
+}
